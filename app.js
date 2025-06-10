@@ -1,1 +1,1 @@
-function newFunc(){}
+// Comment from deverloper 2
